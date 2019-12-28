@@ -1,0 +1,3 @@
+[submodule "themes/influencer-hugo"]
+	path = themes/influencer-hugo
+	url = git@github.com:jccuvic/influencer-hugo.git
