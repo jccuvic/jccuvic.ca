@@ -1,0 +1,135 @@
+# title = "Japanese Culture Club UVic"
+theme = "influencer-hugo"
+baseURL = "https://jccuvic.ca"
+DefaultContentLanguage = "en"
+[languages]
+    [languages.en]
+        title = "Japanese Culture Club UVic"
+        description = ""
+        languageName = "English"
+        weight = 1
+    [languages.jp]
+        title = "ユウビック日本文化クラブ"
+        description = ""
+        languageName = "日本語"
+        weight = 2
+# disableLanguages = ["jp"]
+summaryLength = "10"
+paginate = 6
+favicon = ""
+
+############################# Plugins ##############################
+[params.plugins]
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/magnific-popup/magnific-popup.css"
+  
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/magnific-popup/magnific-popup.min.js"
+
+  
+############################## navigation ###############################
+[menu]
+  [[menu.main]]
+  name = "about"
+  URL = "about"
+  weight = 1
+  
+  # [[menu.main]]
+  # name = "calender"
+  # URL = "calender"
+  # weight = 2
+  
+  # [[menu.main]]
+  # name = "resources"
+  # URL = "resources"
+  # weight = 3
+  
+#   [[menu.main]]
+#   name = "Author"
+#   URL = "author"
+#   weight = 5
+  
+  # [[menu.main]]
+  # name = "blog"
+  # URL = "blog"
+  # weight = 6
+  
+  [[menu.main]]
+  name = "contact"
+  URL = "/#contact"
+  weight = 7
+
+
+#################### default parameters ################################
+[params]
+logo = "images/jccuvic_logo_trans.png"
+home = "Home"
+signup = "https://docs.google.com/forms/d/e/1FAIpQLScZtELYz_GYoijiyjqvGbSpz_WDywxdBmTTe41zFEOJAw060A/viewform?usp=sf_link"
+# Meta data
+description = "This is meta description"
+author = "Japanese Culture Club UVic"
+# Google Analitycs
+googleAnalyticsId = "Your ID"
+# copyright
+copyright = "Copyright &copy; 2019 Japanese Culture Club UVic - All Rights Reserved"
+  # Preloader
+  [params.preloader]
+  enable = true
+  preloader = "" # use .png , .svg or .gif format
+  # Navigation get start button
+  [params.navButton]
+  enable = true
+
+  
+############################# Footer ########################
+[params.footer]
+  [params.footer.en]
+    content = """
+      Welcome to the Japanese Culture Club. We are a club made up of Japanese students and students interested in Japanese culture and offer a friendly, inclusive environment. 
+      Our activities include language exchange for all levels of ability, social outings, workshops, and anything you might like to see included. 
+      We welcome all students interested regardless of ability or knowledge
+    """
+    madein = "Made in Victoria, BC. Canada"
+  [params.footer.jp]
+    content = """
+      日本文化クラブへようこそ。 私たちは日本人学生と日本文化に興味のある学生で構成されたクラブであり、友好的で包括的な環境を提供しています。 
+      私たちの活動には、あらゆるレベルの能力のための言語交換、社交行事、ワークショップ、そしてあなたが含めたいと思うものが含まれます。 
+      能力や知識に関係なく、興味のあるすべての学生を歓迎します！
+    """
+    madein = "カナダ、ブリティッシュコロンビア州ビクトリア製"
+
+############################# post share ###################
+# themify icon : https://themify.me/themify-icons
+[[params.share]]
+title = "facebook"
+icon = "ti-facebook" 
+link = "https://www.facebook.com/jccuvic"
+
+[[params.share]]
+title = "twitter"
+icon = "ti-twitter-alt"
+link = "#"
+
+[[params.share]]
+title = "linkedin"
+icon = "ti-linkedin" 
+link = "#"
+
+[[params.share]]
+title = "github"
+icon = "ti-github"
+link = "#"

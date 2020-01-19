@@ -1,0 +1,18 @@
+- id: hello
+  translation: "Hello"
+- id: signup
+  translation: "Sign-Up"
+- id: about
+  translation: "about"
+- id: calender
+  translation: "calender"
+- id: resources
+  translation: "resources"
+- id: contact
+  translation: "contact"
+- id: blog
+  translation: "blog"
+- id: language_exchange
+  translation: "Language Exchange"
+- id: all-posts
+  translation: "All Posts"
