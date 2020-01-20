@@ -118,7 +118,7 @@ team:
     # review item loop
     - name : "ジョウコウジ　アオミ"
       image : "images/leadership/aomi.jpg" # image size 80*80 px
-      designation : "副部長"
+      designation : "部長"
       content : "城光寺さんはクラブのいろいろかんりしております。日本生まれのカナダ育ち。餃子が大好きです！" 
     # 
     - name : "ジョウコウジ　アオミ"
