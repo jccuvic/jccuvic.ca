@@ -2,14 +2,16 @@
 banner:
   enable : true
   title: "Welcome!"
-  content: "Please mind the contruction while we work to improve our website! We're working hard as we can! You bet you'll find many bugs and problems.
+  content: "
+  Please _mind_ the contruction while we work to improve our website! We're working hard as we can! You bet you'll find many bugs and problems.
   If you found us during UVSS Club and Course Union Days, welcome!
 
+  ## Schedule
 
-  Terrace House: Tuesdays 6pm in COR A125
-
+  - **Language Exchange:** Thursdays 4pm in HHB 116 
   
-  Language Exchange: Thursdays 4pm in HHB 116 
+  - **Terrace House:** Postponed due to low turnout. 
+   
   "
   complete: 
     - "student association"
