@@ -4,8 +4,8 @@
   translation: "Sign-Up"
 - id: about
   translation: "about"
-- id: calender
-  translation: "calender"
+- id: calendar
+  translation: "calendar"
 - id: resources
   translation: "resources"
 - id: contact
