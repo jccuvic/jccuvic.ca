@@ -48,10 +48,10 @@ favicon = ""
   URL = "about"
   weight = 1
   
-  # [[menu.main]]
-  # name = "calender"
-  # URL = "calender"
-  # weight = 2
+  [[menu.main]]
+  name = "calendar"
+  URL = "calendar"
+  weight = 2
   
   # [[menu.main]]
   # name = "resources"
