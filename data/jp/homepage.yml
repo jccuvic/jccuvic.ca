@@ -1,8 +1,9 @@
 ########################## Banner #############################
 banner:
   enable : true
-  title: "ようこそ！"
-  # content: "ウェブサイトが工事中なので。全力で頑張っています！それまでご了承ください。"
+  title: "ようこそ、JCCへ！"
+  content: "JCC（Japanese Culture Club）は日本に興味のある学生を中心としたクラブです。
+  留学生、現地生問わず和気あいあいとした雰囲気の中language exchangeなどを中心に活動しています。"
   complete: 
     - "student association"
     - "conversation club"
