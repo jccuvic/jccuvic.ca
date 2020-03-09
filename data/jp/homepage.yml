@@ -239,11 +239,10 @@ contact:
       link: "https://www.facebook.com/jccuvic"
     - title: "ツイッター"
       icon: "ti-twitter"
-      # list:
-        # - listItem: "jccuvic"
       link: "https://www.twitter.com/jccuvic"
     - title: "インスタグラム"
       icon: "ti-instagram"
-      # list:
-      #   - listItem: "jccuvic"
       link: "https://www.instagram.com/jccuvic"
+    - title: "フォーム"
+      icon: "ti-comment"
+      link: "https://docs.google.com/forms/d/e/1FAIpQLSfGjPmIhKNRpHhnxd1StulwEJgwObgFobIE5b2CvgfD5K1PnQ/viewform"
