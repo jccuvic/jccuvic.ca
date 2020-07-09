@@ -4,14 +4,7 @@ banner:
   title: "Welcome!"
   content: "
   Please _mind_ the contruction while we work to improve our website! We're working hard as we can! You bet you'll find many bugs and problems.
-  If you found us during UVSS Club and Course Union Days, welcome!
-
-  ## Schedule
-
-  - **Language Exchange:** Thursdays 4pm in HHB 116 
-  
-  - **Terrace House:** Postponed due to low turnout. 
-   
+  We are currently evaluating how we will operate during COVID-19. Please follow our social media channels found below to stay up to date.
   "
   complete: 
     - "student association"
@@ -122,7 +115,7 @@ team:
   review:
     #
     - name : "Alexandria"
-      image : "images/client/test-1.jpg" # image size 80*80 px
+      image : "images/leadership/alexandria.jpg" # image size 80*80 px
       designation : "Co-President"
       content : "A 23 year old Applied Linguistics student currently studying German and Japanese but passable in French. 
       I'm a bi disaster child and a student with disabilities and other unknown health issues so my goal is to make the club as accessible and welcoming as possible for all members. She/Her."
@@ -135,15 +128,8 @@ team:
       I have an unhealthy obsession with gyoza to the point it was almost a project codename at work.
       If you're interested in a work term in Japan let me know and maybe I can help!" 
     # 
-    - name : "Andony"
-      image : "images/client/test-2.jpg" # image size 80*80 px
-      designation : "Assistant to the Co-Presidents"
-      content : "Hi there! I am a first-year computer science student here at UVic. 
-      I’m a huge gamer, who is also interested in Japanese Culture. I hope I can get to know many of you who come out to meetings and events. 
-      If you ever see me outside of the club, please don’t hesitate to say hello!" 
-    # 
     - name: "Tabitha"
-      image: "images/client/test-2.jpg" # image size 80*80 px
+      image: "images/leadership/tabitha.jpg" # image size 80*80 px
       designation: "Assistant to the Co-Presidents"
       content: "I am a 20 year old, walking mess, studying a BSc in biology concentrating in neuroscience. 
       As a student of colour and disability I also strongly advocate for minority groups in STEM and strive to produce inclusive environments all around. 
