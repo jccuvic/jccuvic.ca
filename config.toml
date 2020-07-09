@@ -83,7 +83,7 @@ signup = "https://docs.google.com/forms/d/e/1FAIpQLScZtELYz_GYoijiyjqvGbSpz_WDyw
 description = "This is meta description"
 author = "Japanese Culture Club UVic"
 # Google Analitycs
-googleAnalyticsId = "Your ID"
+googleAnalyticsId = "UA-170920035-1"
 # copyright
 copyright = "Copyright &copy; 2019 Japanese Culture Club UVic - All Rights Reserved"
   # Preloader
